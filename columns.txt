@@ -1,0 +1,15 @@
+## COLUMNS ##
+1. title
+2. tag
+3. artist
+4. year
+5. views
+6. features
+7. lyrics
+8. id
+9. language_cld3
+10. language_ft
+11. language
+12. lyrics_clean
+13. char_len
+14. word_len

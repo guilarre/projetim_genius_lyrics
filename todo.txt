@@ -1,0 +1,10 @@
+- limpeza pré-treinamento:
+    null titles
+    duplicate titles where lyrics are the same (NÃO DELETAR TUDO, manter 1 cópia por música única)
+    artist contendo 'genius' e 'translation'
+    length of lyrics 0
+    length < 50
+    poetry???
+
+- FALTA:
+    lyrics that are too long, poetry, books
