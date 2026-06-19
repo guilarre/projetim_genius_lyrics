@@ -1,2 +1,3 @@
 Genius-song-lyrics-cleaned/*
 .tmp/*
+*.parquet

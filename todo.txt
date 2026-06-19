@@ -10,7 +10,7 @@
 
 
 - FALTA:
-    - check cutoff point for views
-    - organizar passos do tratamento corretamente (cortes mais gerais primeiro)
-    - lyrics that are too long, poetry, books
-    - graphs showing distribution of lyrics length
+    - 
+
+- CANCELADO:
+    - cutoff point for views (acho que não é necessário..?)
