@@ -1,0 +1,51 @@
+# Most common grammar points
+
+present simple
+present continuous
+past simple
+past continuous
+present perfect
+present perfect continuous
+past perfect
+past perfect continuous
+future simple
+    be going to
+    will
+    present continuous //harder to detect...
+future continuous //will be doing...
+future perfect //will have done...
+conditionals //(0-3)
+modal verbs
+    may
+    might
+    may have
+    might have
+    must
+    must have
+    can
+    could
+    would
+    would have
+    would rather
+    shall
+    should
+    ought to
+    had better
+    used to
+passive voice //gotta account for all the different tenses
+reported speech
+some/any
+none
+either/or
+neither/nor
+quantifiers
+wh- questions
+    what
+    when
+    where
+    who
+    whom
+    whose
+    which
+    why
+    how
